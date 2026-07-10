@@ -1,0 +1,499 @@
+EMP_ID,Location,Possible_nearest_station,Distance_to_cover(kms),distance_to_station(kms),station_to_workplace(kms),total_time,commute_group,Deutschlandticket_Metric
+JNJMED_1,Hamburg-Altona,Altona,15.0,1.07,15.73,54.1,Good,Very High
+JNJMED_2,Hamburg-Altona,Dammtor,14.22,0.97,14.47,61.2,Time consuming,High
+JNJMED_3,Hamburg-Altona,Altona,16.62,1.09,15.73,54.2,Good,Very High
+JNJMED_4,Hamburg-Altona,Eimsbüttel / Osterstraße,12.28,0.58,12.86,50.6,Good,Very High
+JNJMED_5,Hamburg-Altona,Altona,16.86,1.47,15.73,54.9,Good,Very High
+JNJMED_6,Hamburg-Altona,Altona,17.23,1.78,15.73,55.6,Good,Very High
+JNJMED_7,Hamburg-Altona,Bahrenfeld,16.72,2.57,14.51,55.0,Good,Very High
+JNJMED_8,Hamburg-Altona,Altona,20.0,4.31,15.73,60.6,Time consuming,High
+JNJMED_9,Hamburg-Altona,Altona,18.12,2.49,15.73,57.0,Good,Very High
+JNJMED_10,Hamburg-Altona,Altona,18.72,3.86,15.73,59.7,Good,Very High
+JNJMED_11,Hamburg-Altona,Stellingen,12.97,1.2,11.94,47.9,Good,Very High
+JNJMED_12,Hamburg-Altona,Bahrenfeld,16.69,2.21,14.51,54.3,Good,Very High
+JNJMED_13,Hamburg-Altona,Altona,17.16,1.44,15.73,54.9,Good,Very High
+JNJMED_14,Hamburg-Altona,Altona,18.41,2.82,15.73,57.6,Good,Very High
+JNJMED_15,Hamburg-Altona,Altona,17.44,1.81,15.73,55.6,Good,Very High
+JNJMED_16,Hamburg-Altona,Jungfernstieg,17.0,1.82,15.26,54.8,Good,Very High
+JNJMED_17,Hamburg-Altona,Bahrenfeld,16.61,2.13,14.51,54.2,Good,Very High
+JNJMED_18,Hamburg-Altona,Bahrenfeld,14.98,0.73,14.51,56.5,Good,Very High
+JNJMED_19,Hamburg-Altona,Bahrenfeld,16.83,2.69,14.51,55.3,Good,Very High
+JNJMED_20,Hamburg-Altona,Altona,18.85,3.18,15.73,58.4,Good,Very High
+JNJMED_21,Hamburg-Altona,Altona,14.33,1.42,15.73,54.8,Good,Very High
+JNJMED_22,Hamburg-Altona,Altona,16.4,1.05,15.73,54.1,Good,Very High
+JNJMED_23,Hamburg-Altona,Altona,19.54,3.93,15.73,59.9,Good,Very High
+JNJMED_24,Hamburg-Altona,Altona,16.73,2.17,15.73,56.3,Good,Very High
+JNJMED_25,Hamburg-Eimsbüttel,Bahrenfeld,13.31,1.54,14.51,53.0,Good,Very High
+JNJMED_26,Hamburg-Eimsbüttel,Eimsbüttel / Osterstraße,12.47,1.01,12.86,49.0,Good,Very High
+JNJMED_27,Hamburg-Eimsbüttel,Dammtor,14.41,1.43,14.47,52.7,Good,Very High
+JNJMED_28,Hamburg-Eimsbüttel,Lokstedt,10.58,1.41,10.03,45.0,Excellent,Very High
+JNJMED_29,Hamburg-Eimsbüttel,Altona,14.98,0.79,15.73,59.8,Good,Very High
+JNJMED_30,Hamburg-Eimsbüttel,Eimsbüttel / Osterstraße,12.14,1.94,12.86,50.9,Good,Very High
+JNJMED_31,Hamburg-Eimsbüttel,Eimsbüttel / Osterstraße,14.15,1.31,12.86,49.6,Good,Very High
+JNJMED_32,Hamburg-Eimsbüttel,Altona,15.96,1.39,15.73,54.8,Good,Very High
+JNJMED_33,Hamburg-Eimsbüttel,Winterhude / Hudtwalckerstraße,11.09,1.67,10.9,47.0,Good,Very High
+JNJMED_34,Hamburg-Eimsbüttel,Dammtor,13.04,1.56,14.47,52.9,Good,Very High
+JNJMED_35,Hamburg-Eimsbüttel,Stellingen,12.52,1.13,11.94,47.8,Good,Very High
+JNJMED_36,Hamburg-Eimsbüttel,Winterhude / Hudtwalckerstraße,12.12,1.89,10.9,47.5,Good,Very High
+JNJMED_37,Hamburg-Eimsbüttel,Dammtor,13.0,1.57,14.47,52.9,Good,Very High
+JNJMED_38,Hamburg-Eimsbüttel,Jungfernstieg,18.71,3.67,15.26,58.5,Good,Very High
+JNJMED_39,Hamburg-Eimsbüttel,Eimsbüttel / Osterstraße,12.95,0.67,12.86,52.4,Good,Very High
+JNJMED_40,Hamburg-Eimsbüttel,Bahrenfeld,14.01,1.28,14.51,52.5,Good,Very High
+JNJMED_41,Hamburg-Eimsbüttel,Eimsbüttel / Osterstraße,13.43,0.91,12.86,57.2,Good,Very High
+JNJMED_42,Hamburg-Eimsbüttel,Lokstedt,10.06,1.66,10.03,45.5,Good,Very High
+JNJMED_43,Hamburg-Eimsbüttel,Altona,14.98,0.76,15.73,59.2,Good,Very High
+JNJMED_44,Hamburg-Eimsbüttel,Lokstedt,10.93,0.91,10.03,52.4,Good,Very High
+JNJMED_45,Hamburg-Eimsbüttel,Eimsbüttel / Osterstraße,14.09,1.64,12.86,50.3,Good,Very High
+JNJMED_46,Hamburg-Eimsbüttel,Eimsbüttel / Osterstraße,12.66,1.85,12.86,50.7,Good,Very High
+JNJMED_47,Hamburg-Eimsbüttel,Altona,14.69,1.05,15.73,54.1,Good,Very High
+JNJMED_48,Hamburg-Eimsbüttel,Bahrenfeld,14.61,0.22,14.51,46.3,Good,Very High
+JNJMED_49,Hamburg-Wandsbek,Wandsbek-Gartenstadt,13.95,1.35,12.61,49.3,Good,Very High
+JNJMED_50,Hamburg-Wandsbek,Wandsbek Markt,14.09,0.54,14.56,52.8,Good,Very High
+JNJMED_51,Hamburg-Wandsbek,Burgstraße,16.9,0.9,16.11,62.6,Time consuming,High
+JNJMED_52,Hamburg-Wandsbek,Hasselbrook,14.39,0.28,14.5,47.5,Good,Very High
+JNJMED_53,Hamburg-Wandsbek,Wandsbek Markt,14.98,1.33,14.56,52.7,Good,Very High
+JNJMED_54,Hamburg-Wandsbek,Wandsbek-Gartenstadt,10.89,2.32,12.61,51.2,Good,Very High
+JNJMED_55,Hamburg-Wandsbek,Wandsbek Markt,13.72,1.16,14.56,52.3,Good,Very High
+JNJMED_56,Hamburg-Wandsbek,Burgstraße,18.21,2.11,16.11,56.8,Good,Very High
+JNJMED_57,Hamburg-Wandsbek,Rahlstedt,16.92,3.11,14.99,56.9,Good,Very High
+JNJMED_58,Hamburg-Wandsbek,Wandsbek Markt,14.95,1.12,14.56,52.2,Good,Very High
+JNJMED_59,Hamburg-Wandsbek,Hasselbrook,13.51,1.01,14.5,51.9,Good,Very High
+JNJMED_60,Hamburg-Wandsbek,Wandsbek-Gartenstadt,12.9,1.63,12.61,49.900000000000006,Good,Very High
+JNJMED_61,Hamburg-Wandsbek,Barmbek,11.95,0.45,12.18,46.9,Good,Very High
+JNJMED_62,Hamburg-Wandsbek,Winterhude / Hudtwalckerstraße,10.33,1.54,10.9,46.8,Good,Very High
+JNJMED_63,Hamburg-Wandsbek,Rahlstedt,15.68,2.11,14.99,54.9,Good,Very High
+JNJMED_64,Hamburg-Wandsbek,Burgstraße,15.91,0.45,16.11,53.6,Good,Very High
+JNJMED_65,Hamburg-Wandsbek,Wandsbek Markt,13.68,0.89,14.56,59.8,Good,Very High
+JNJMED_66,Hamburg-Wandsbek,Burgstraße,17.51,1.45,16.11,55.5,Good,Very High
+JNJMED_67,Hamburg-Wandsbek,Burgstraße,16.83,1.63,16.11,55.900000000000006,Good,Very High
+JNJMED_68,Hamburg-Wandsbek,Billstedt,17.59,1.95,18.57,60.7,Time consuming,High
+JNJMED_69,Hamburg-Wandsbek,Burgstraße,15.64,0.52,16.11,55.0,Good,Very High
+JNJMED_70,Hamburg-Wandsbek,Barmbek,11.68,0.54,12.18,48.7,Good,Very High
+JNJMED_71,Hamburg-Wandsbek,Wandsbek-Gartenstadt,15.2,2.95,12.61,52.5,Good,Very High
+JNJMED_72,Hamburg-Wandsbek,Burgstraße,17.72,1.69,16.11,56.0,Good,Very High
+JNJMED_73,Hamburg-Barmbek,Wandsbek-Gartenstadt,12.41,0.47,12.61,48.0,Good,Very High
+JNJMED_74,Hamburg-Barmbek,Dammtor,14.39,1.04,14.47,51.9,Good,Very High
+JNJMED_75,Hamburg-Barmbek,Barmbek,11.46,1.24,12.18,48.4,Good,Very High
+JNJMED_76,Hamburg-Barmbek,Barmbek,12.05,0.88,12.18,55.5,Good,Very High
+JNJMED_77,Hamburg-Barmbek,Hasselbrook,13.88,0.78,14.5,57.5,Good,Very High
+JNJMED_78,Hamburg-Barmbek,Winterhude / Hudtwalckerstraße,11.25,0.6,10.9,47.7,Good,Very High
+JNJMED_79,Hamburg-Barmbek,Klein Borstel,9.03,1.56,8.65,42.9,Excellent,Very High
+JNJMED_80,Hamburg-Barmbek,Wandsbek Markt,15.24,0.85,14.56,59.0,Good,Very High
+JNJMED_81,Hamburg-Barmbek,Wandsbek Markt,14.9,0.35,14.56,49.0,Good,Very High
+JNJMED_82,Hamburg-Barmbek,Ohlsdorf,9.34,1.36,8.49,42.3,Excellent,Very High
+JNJMED_83,Hamburg-Barmbek,Wandsbek-Gartenstadt,10.68,1.95,12.61,50.5,Good,Very High
+JNJMED_84,Hamburg-Barmbek,Farmsen,12.6,1.15,13.06,49.7,Good,Very High
+JNJMED_85,Hamburg-Barmbek,Winterhude / Hudtwalckerstraße,12.4,1.5,10.9,46.7,Good,Very High
+JNJMED_86,Hamburg-Barmbek,Hasselbrook,13.78,1.85,14.5,53.6,Good,Very High
+JNJMED_87,Hamburg-Barmbek,Barmbek,12.71,0.8,12.18,53.9,Good,Very High
+JNJMED_88,Hamburg-Barmbek,Wandsbek-Gartenstadt,12.42,0.38,12.61,46.2,Good,Very High
+JNJMED_89,Hamburg-Barmbek,Wandsbek-Gartenstadt,13.55,1.04,12.61,48.7,Good,Very High
+JNJMED_90,Hamburg-Barmbek,Farmsen,15.51,2.82,13.06,53.0,Good,Very High
+JNJMED_91,Hamburg-Harburg,Harburg,24.35,3.09,26.14,76.0,Time consuming,High
+JNJMED_92,Hamburg-Harburg,Harburg,28.07,1.94,26.14,73.69999999999999,Time consuming,High
+JNJMED_93,Hamburg-Harburg,Harburg,26.21,0.65,26.14,74.8,Time consuming,High
+JNJMED_94,Hamburg-Harburg,Harburg,24.62,1.77,26.14,73.3,Time consuming,High
+JNJMED_95,Hamburg-Harburg,Harburg,27.73,4.05,26.14,77.9,Time consuming,High
+JNJMED_96,Hamburg-Harburg,Harburg,26.72,1.08,26.14,72.0,Time consuming,High
+JNJMED_97,Hamburg-Harburg,Harburg,25.32,3.38,26.14,76.6,Time consuming,High
+JNJMED_98,Hamburg-Harburg,Harburg,25.3,0.84,26.14,78.6,Time consuming,High
+JNJMED_99,Hamburg-Harburg,Harburg,27.64,1.58,26.14,73.0,Time consuming,High
+JNJMED_100,Hamburg-Harburg,Harburg,25.65,3.1,26.14,76.0,Time consuming,High
+JNJMED_101,Hamburg-Harburg,Harburg,24.9,1.3,26.14,72.4,Time consuming,High
+JNJMED_102,Hamburg-Harburg,Harburg,23.36,3.16,26.14,76.1,Time consuming,High
+JNJMED_103,Norderstedt,Garstedt,1.94,2.33,0.94,31.3,Bike friendly,Low
+JNJMED_104,Norderstedt,Norderstedt Harksheide,3.41,0.7,3.28,36.6,Bike friendly,Low
+JNJMED_105,Norderstedt,Ammersbek,8.47,5.4,12.52,57.3,Good,Very High
+JNJMED_106,Norderstedt,Norderstedt Harksheide,4.12,0.87,3.28,40.0,Excellent,Very High
+JNJMED_107,Norderstedt,Norderstedt Harksheide,4.42,1.43,3.28,33.5,Excellent,Very High
+JNJMED_108,Norderstedt,Norderstedt Richtweg,2.18,0.84,1.34,36.1,Bike friendly,Low
+JNJMED_109,Norderstedt,Norderstedt Garstedt,0.39,1.32,0.94,7.8,Walk to work,Very Low
+JNJMED_110,Norderstedt,Norderstedt Richtweg,1.02,0.61,1.34,20.4,Walk to work,Very Low
+JNJMED_111,Norderstedt,Quickborn,7.97,3.08,6.89,43.0,Excellent,Very High
+JNJMED_112,Norderstedt,Quickborn,4.63,2.41,6.89,41.6,Excellent,Very High
+JNJMED_113,Norderstedt,Norderstedt Richtweg,2.57,1.39,1.34,30.1,Bike friendly,Low
+JNJMED_114,Norderstedt,Norderstedt Mitte,2.89,2.73,1.93,33.8,Bike friendly,Low
+JNJMED_115,Norderstedt,Norderstedt Richtweg,1.63,0.74,1.34,34.1,Bike friendly,Low
+JNJMED_116,Norderstedt,Norderstedt Richtweg,0.77,0.61,1.34,15.4,Walk to work,Very Low
+JNJMED_117,Norderstedt,Norderstedt Mitte,2.38,1.89,1.93,32.1,Bike friendly,Low
+JNJMED_118,Norderstedt,Norderstedt Harksheide,6.96,4.06,3.28,38.7,Excellent,Very High
+JNJMED_119,Norderstedt,Ochsenzoll,2.55,1.29,2.0,31.0,Bike friendly,Low
+JNJMED_120,Norderstedt,Norderstedt Richtweg,1.99,0.98,1.34,38.900000000000006,Bike friendly,Low
+JNJMED_121,Norderstedt,Norderstedt Garstedt,0.26,1.13,0.94,5.2,Walk to work,Very Low
+JNJMED_122,Norderstedt,Norderstedt Harksheide,3.7,0.43,3.28,31.2,Bike friendly,Low
+JNJMED_123,Norderstedt,Garstedt,0.78,1.1,0.94,15.6,Walk to work,Very Low
+JNJMED_124,Norderstedt,Norderstedt Mitte,1.44,2.02,1.93,28.8,Bike friendly,Low
+JNJMED_125,Norderstedt,Norderstedt Harksheide,6.04,3.3,3.28,37.2,Excellent,Very High
+JNJMED_126,Norderstedt,Ochsenzoll,2.19,0.95,2.0,39.4,Bike friendly,Low
+JNJMED_127,Norderstedt,Norderstedt Harksheide,7.12,4.03,3.28,38.7,Excellent,Very High
+JNJMED_128,Norderstedt,Garstedt,1.54,1.56,0.94,29.7,Bike friendly,Low
+JNJMED_129,Norderstedt,Norderstedt Harksheide,4.99,3.64,3.28,37.9,Excellent,Very High
+JNJMED_130,Norderstedt,Norderstedt Harksheide,3.49,0.27,3.28,28.0,Bike friendly,Low
+JNJMED_131,Norderstedt,Norderstedt Garstedt,0.11,0.83,0.94,2.2,Walk to work,Very Low
+JNJMED_132,Norderstedt,Niendorf Markt,5.49,2.87,8.28,44.9,Excellent,Very High
+JNJMED_133,Quickborn,Quickborn,8.84,2.68,6.89,42.2,Excellent,Very High
+JNJMED_134,Quickborn,Quickborn,11.69,4.84,6.89,46.5,Good,Very High
+JNJMED_135,Quickborn,Quickborn,6.31,0.83,6.89,45.400000000000006,Good,Very High
+JNJMED_136,Quickborn,Quickborn,11.39,4.52,6.89,45.8,Good,Very High
+JNJMED_137,Quickborn,Quickborn,9.05,2.75,6.89,42.3,Excellent,Very High
+JNJMED_138,Quickborn,Quickborn,5.1,2.16,6.89,41.1,Excellent,Very High
+JNJMED_139,Quickborn,Quickborn,8.32,1.49,6.89,39.8,Excellent,Very High
+JNJMED_140,Quickborn,Quickborn,7.81,0.99,6.89,48.6,Good,Very High
+JNJMED_141,Quickborn,Quickborn,6.4,1.2,6.89,39.2,Excellent,Very High
+JNJMED_142,Quickborn,Quickborn,11.35,4.53,6.89,45.900000000000006,Good,Very High
+JNJMED_143,Quickborn,Quickborn,13.21,6.35,6.89,49.5,Good,Very High
+JNJMED_144,Quickborn,Quickborn,6.06,1.0,6.89,48.8,Good,Very High
+JNJMED_145,Quickborn,Quickborn,8.47,1.61,6.89,40.0,Excellent,Very High
+JNJMED_146,Quickborn,Quickborn,7.61,1.19,6.89,39.2,Excellent,Very High
+JNJMED_147,Quickborn,Quickborn,5.0,1.9,6.89,40.6,Excellent,Very High
+JNJMED_148,Quickborn,Quickborn,8.69,1.82,6.89,40.4,Excellent,Very High
+JNJMED_149,Quickborn,Quickborn,8.23,2.2,6.89,41.2,Excellent,Very High
+JNJMED_150,Quickborn,Quickborn,7.71,2.24,6.89,41.3,Excellent,Very High
+JNJMED_151,Pinneberg,Pinneberg,14.07,1.56,12.76,50.0,Good,Very High
+JNJMED_152,Pinneberg,Pinneberg,10.87,2.65,12.76,52.2,Good,Very High
+JNJMED_153,Pinneberg,Pinneberg,12.2,0.69,12.76,52.7,Good,Very High
+JNJMED_154,Pinneberg,Pinneberg,13.12,3.59,12.76,54.1,Good,Very High
+JNJMED_155,Pinneberg,Pinneberg,12.53,1.83,12.76,50.6,Good,Very High
+JNJMED_156,Pinneberg,Rellingen,10.51,1.37,9.46,43.9,Excellent,Very High
+JNJMED_157,Pinneberg,Pinneberg,10.44,3.02,12.76,52.9,Good,Very High
+JNJMED_158,Pinneberg,Pinneberg,11.9,3.51,12.76,53.9,Good,Very High
+JNJMED_159,Pinneberg,Pinneberg,12.69,2.16,12.76,51.2,Good,Very High
+JNJMED_160,Pinneberg,Pinneberg,12.49,1.33,12.76,49.6,Good,Very High
+JNJMED_161,Pinneberg,Pinneberg,11.22,1.58,12.76,50.1,Good,Very High
+JNJMED_162,Pinneberg,Rellingen,9.39,1.16,9.46,43.5,Excellent,Very High
+JNJMED_163,Pinneberg,Pinneberg,15.42,2.77,12.76,52.4,Good,Very High
+JNJMED_164,Pinneberg,Pinneberg,10.4,3.62,12.76,54.1,Good,Very High
+JNJMED_165,Pinneberg,Pinneberg,10.88,2.44,12.76,51.8,Good,Very High
+JNJMED_166,Pinneberg,Pinneberg,14.14,1.71,12.76,50.3,Good,Very High
+JNJMED_167,Pinneberg,Pinneberg,13.67,1.4,12.76,49.7,Good,Very High
+JNJMED_168,Pinneberg,Pinneberg,12.29,2.77,12.76,52.4,Good,Very High
+JNJMED_169,Ahrensburg,Ahrensburg,16.89,1.99,17.25,58.6,Good,Very High
+JNJMED_170,Ahrensburg,Ahrensburg,16.04,1.45,17.25,57.5,Good,Very High
+JNJMED_171,Ahrensburg,Ahrensburg,17.99,1.92,17.25,58.400000000000006,Good,Very High
+JNJMED_172,Ahrensburg,Ahrensburg,16.18,1.15,17.25,56.900000000000006,Good,Very High
+JNJMED_173,Ahrensburg,Ahrensburg,17.82,1.17,17.25,56.900000000000006,Good,Very High
+JNJMED_174,Ahrensburg,Volksdorf,15.19,2.33,12.86,51.7,Good,Very High
+JNJMED_175,Ahrensburg,Ahrensburg,17.05,1.69,17.25,58.0,Good,Very High
+JNJMED_176,Ahrensburg,Ahrensburg,20.09,2.97,17.25,60.5,Time consuming,High
+JNJMED_177,Ahrensburg,Ahrensburg,16.82,1.91,17.25,58.400000000000006,Good,Very High
+JNJMED_178,Ahrensburg,Ahrensburg,15.26,2.02,17.25,58.6,Good,Very High
+JNJMED_179,Ahrensburg,Ahrensburg,16.66,0.6,17.25,58.6,Good,Very High
+JNJMED_180,Ahrensburg,Ahrensburg,15.53,1.8,17.25,58.2,Good,Very High
+JNJMED_181,Ahrensburg,Ahrensburg,20.18,3.21,17.25,61.0,Time consuming,High
+JNJMED_182,Ahrensburg,Ahrensburg,18.05,0.82,17.25,63.0,Time consuming,High
+JNJMED_183,Ahrensburg,Ahrensburg,16.34,1.71,17.25,58.0,Good,Very High
+JNJMED_184,Ahrensburg,Ahrensburg,17.21,0.47,17.25,56.0,Good,Very High
+JNJMED_185,Ahrensburg,Ahrensburg,15.68,1.57,17.25,57.7,Good,Very High
+JNJMED_186,Ahrensburg,Ahrensburg,18.21,0.96,17.25,65.8,Time consuming,High
+JNJMED_187,Wedel,Wedel,18.97,3.42,21.87,69.3,Time consuming,High
+JNJMED_188,Wedel,Wedel,21.44,5.0,21.87,72.5,Time consuming,High
+JNJMED_189,Wedel,Wedel,20.95,1.77,21.87,66.0,Time consuming,High
+JNJMED_190,Wedel,Wedel,21.49,5.11,21.87,72.7,Time consuming,High
+JNJMED_191,Wedel,Wedel,24.32,2.57,21.87,67.6,Time consuming,High
+JNJMED_192,Wedel,Wedel,25.99,5.1,21.87,72.7,Time consuming,High
+JNJMED_193,Wedel,Wedel,23.02,1.86,21.87,66.2,Time consuming,High
+JNJMED_194,Wedel,Wedel,18.81,3.4,21.87,69.3,Time consuming,High
+JNJMED_195,Wedel,Wedel,22.19,2.48,21.87,67.5,Time consuming,High
+JNJMED_196,Wedel,Wedel,22.68,2.25,21.87,67.0,Time consuming,High
+JNJMED_197,Wedel,Blankenese,21.35,4.08,18.25,64.5,Time consuming,High
+JNJMED_198,Wedel,Wedel,21.77,2.79,21.87,68.1,Time consuming,High
+JNJMED_199,Lüneburg,Lüneburg,61.39,4.32,57.07,131.4,Too far to commute regularly,Low
+JNJMED_200,Lüneburg,Lüneburg,58.23,1.89,57.07,126.6,Too far to commute regularly,Low
+JNJMED_201,Lüneburg,Lüneburg,59.27,3.94,57.07,130.7,Too far to commute regularly,Low
+JNJMED_202,Lüneburg,Lüneburg,56.77,0.51,57.07,125.0,Too far to commute regularly,Low
+JNJMED_203,Lüneburg,Lüneburg,58.23,1.16,57.07,125.1,Too far to commute regularly,Low
+JNJMED_204,Lüneburg,Lüneburg,58.67,2.49,57.07,127.8,Too far to commute regularly,Low
+JNJMED_205,Lüneburg,Lüneburg,57.03,0.53,57.07,125.4,Too far to commute regularly,Low
+JNJMED_206,Lüneburg,Lüneburg,54.25,3.28,57.07,129.39999999999998,Too far to commute regularly,Low
+JNJMED_207,Lüneburg,Lüneburg,60.97,3.9,57.07,130.6,Too far to commute regularly,Low
+JNJMED_208,Lüneburg,Lüneburg,55.35,2.24,57.07,127.3,Too far to commute regularly,Low
+JNJMED_209,Lüneburg,Lüneburg,53.89,3.52,57.07,129.8,Too far to commute regularly,Low
+JNJMED_210,Lüneburg,Lüneburg,54.55,2.71,57.07,128.2,Too far to commute regularly,Low
+JNJMED_211,Elmshorn,Elmshorn,21.48,5.29,22.74,74.6,Time consuming,High
+JNJMED_212,Elmshorn,Elmshorn,20.8,1.99,22.74,68.0,Time consuming,High
+JNJMED_213,Elmshorn,Elmshorn,20.73,2.7,22.74,69.4,Time consuming,High
+JNJMED_214,Elmshorn,Elmshorn,20.95,2.83,22.74,69.7,Time consuming,High
+JNJMED_215,Elmshorn,Elmshorn,26.84,4.15,22.74,72.3,Time consuming,High
+JNJMED_216,Elmshorn,Elmshorn,26.17,5.23,22.74,74.5,Time consuming,High
+JNJMED_217,Elmshorn,Elmshorn,21.27,1.6,22.74,67.2,Time consuming,High
+JNJMED_218,Elmshorn,Elmshorn,23.84,2.91,22.74,69.8,Time consuming,High
+JNJMED_219,Elmshorn,Elmshorn,26.59,4.33,22.74,72.7,Time consuming,High
+JNJMED_220,Elmshorn,Uetersen,22.12,3.45,20.99,67.9,Time consuming,High
+JNJMED_221,Elmshorn,Elmshorn,23.12,0.5,22.74,66.0,Time consuming,High
+JNJMED_222,Elmshorn,Uetersen,22.1,2.7,20.99,66.4,Time consuming,High
+JNJMED_223,Schenefeld,Bahrenfeld,14.91,2.31,14.51,54.5,Good,Very High
+JNJMED_224,Schenefeld,Schenefeld,14.01,2.04,13.29,51.9,Good,Very High
+JNJMED_225,Schenefeld,Schenefeld,15.54,2.39,13.29,52.6,Good,Very High
+JNJMED_226,Schenefeld,Schenefeld,12.26,1.9,13.29,51.6,Good,Very High
+JNJMED_227,Schenefeld,Schenefeld,14.47,2.41,13.29,52.6,Good,Very High
+JNJMED_228,Schenefeld,Schenefeld,15.21,1.97,13.29,51.7,Good,Very High
+JNJMED_229,Schenefeld,Schenefeld,14.87,2.07,13.29,51.9,Good,Very High
+JNJMED_230,Schenefeld,Schenefeld,15.8,2.68,13.29,53.2,Good,Very High
+JNJMED_231,Schenefeld,Halstenbek,10.3,0.67,10.96,49.2,Good,Very High
+JNJMED_232,Schenefeld,Schenefeld,14.26,1.61,13.29,51.0,Good,Very High
+JNJMED_233,Schenefeld,Schenefeld,13.76,0.51,13.29,50.0,Good,Very High
+JNJMED_234,Schenefeld,Schenefeld,11.27,2.03,13.29,51.9,Good,Very High
+JNJMED_235,Schenefeld,Schenefeld,14.93,1.64,13.29,51.1,Good,Very High
+JNJMED_236,Schenefeld,Blankenese,17.0,4.54,18.25,65.4,Time consuming,High
+JNJMED_237,Schenefeld,Bahrenfeld,14.71,0.86,14.51,59.1,Good,Very High
+JNJMED_238,Schenefeld,Halstenbek,11.17,0.39,10.96,43.6,Excellent,Very High
+JNJMED_239,Schenefeld,Schenefeld,11.91,1.42,13.29,50.6,Good,Very High
+JNJMED_240,Schenefeld,Rellingen,7.18,2.28,9.46,45.8,Good,Very High
+JNJMED_241,Rellingen,Pinneberg,11.58,1.77,12.76,50.4,Good,Very High
+JNJMED_242,Rellingen,Schenefeld,11.55,2.03,13.29,51.9,Good,Very High
+JNJMED_243,Rellingen,Pinneberg,13.03,2.29,12.76,51.5,Good,Very High
+JNJMED_244,Rellingen,Halstenbek,12.32,1.63,10.96,47.1,Good,Very High
+JNJMED_245,Rellingen,Rellingen,6.92,3.83,9.46,48.9,Good,Very High
+JNJMED_246,Rellingen,Rellingen,7.29,2.76,9.46,46.7,Good,Very High
+JNJMED_247,Rellingen,Pinneberg,11.22,1.8,12.76,50.5,Good,Very High
+JNJMED_248,Rellingen,Rellingen,7.65,3.25,9.46,47.7,Good,Very High
+JNJMED_249,Rellingen,Halstenbek,11.31,0.81,10.96,52.0,Good,Very High
+JNJMED_250,Rellingen,Halstenbek,13.09,2.27,10.96,48.3,Good,Very High
+JNJMED_251,Rellingen,Rellingen,5.44,4.02,9.46,49.2,Good,Very High
+JNJMED_252,Rellingen,Halstenbek,10.72,2.29,10.96,48.4,Good,Very High
+JNJMED_253,Rellingen,Halstenbek,11.31,0.46,10.96,45.0,Excellent,Very High
+JNJMED_254,Rellingen,Halstenbek,11.88,1.21,10.96,46.2,Good,Very High
+JNJMED_255,Rellingen,Rellingen,11.19,1.85,9.46,44.9,Excellent,Very High
+JNJMED_256,Rellingen,Rellingen,9.57,0.45,9.46,42.2,Excellent,Very High
+JNJMED_257,Rellingen,Halstenbek,11.59,1.62,10.96,47.0,Good,Very High
+JNJMED_258,Rellingen,Rellingen,9.2,2.02,9.46,45.2,Good,Very High
+JNJMED_259,Halstenbek,Halstenbek,11.83,1.6,10.96,47.0,Good,Very High
+JNJMED_260,Halstenbek,Halstenbek,9.46,2.01,10.96,47.8,Good,Very High
+JNJMED_261,Halstenbek,Schenefeld,12.65,1.08,13.29,50.0,Good,Very High
+JNJMED_262,Halstenbek,Schenefeld,10.89,2.47,13.29,52.7,Good,Very High
+JNJMED_263,Halstenbek,Halstenbek,14.67,3.7,10.96,51.2,Good,Very High
+JNJMED_264,Halstenbek,Schenefeld,13.19,0.11,13.29,42.0,Excellent,Very High
+JNJMED_265,Halstenbek,Halstenbek,11.95,1.29,10.96,46.4,Good,Very High
+JNJMED_266,Halstenbek,Pinneberg,12.93,1.0,12.76,58.9,Good,Very High
+JNJMED_267,Halstenbek,Halstenbek,12.84,1.96,10.96,47.7,Good,Very High
+JNJMED_268,Halstenbek,Halstenbek,11.62,1.93,10.96,47.7,Good,Very High
+JNJMED_269,Halstenbek,Schenefeld,12.56,1.92,13.29,51.6,Good,Very High
+JNJMED_270,Halstenbek,Rellingen,10.63,1.34,9.46,43.9,Excellent,Very High
+JNJMED_271,Halstenbek,Pinneberg,11.79,1.35,12.76,49.6,Good,Very High
+JNJMED_272,Halstenbek,Rellingen,7.8,2.84,9.46,46.9,Good,Very High
+JNJMED_273,Halstenbek,Schenefeld,15.7,2.42,13.29,52.6,Good,Very High
+JNJMED_274,Halstenbek,Halstenbek,10.39,0.91,10.96,54.0,Good,Very High
+JNJMED_275,Halstenbek,Halstenbek,11.31,0.82,10.96,52.2,Good,Very High
+JNJMED_276,Halstenbek,Halstenbek,10.9,0.28,10.96,41.4,Excellent,Very High
+JNJMED_277,Norderstedt-Garstedt,Norderstedt Harksheide,4.34,1.12,3.28,32.8,Excellent,Very High
+JNJMED_278,Norderstedt-Garstedt,Norderstedt Mitte,2.12,0.28,1.93,25.9,Bike friendly,Low
+JNJMED_279,Norderstedt-Garstedt,Norderstedt Garstedt,0.65,0.78,0.94,13.0,Walk to work,Very Low
+JNJMED_280,Norderstedt-Garstedt,Norderstedt Mitte,2.23,0.4,1.93,28.3,Bike friendly,Low
+JNJMED_281,Norderstedt-Garstedt,Norderstedt Harksheide,5.91,3.89,3.28,38.4,Excellent,Very High
+JNJMED_282,Norderstedt-Garstedt,Norderstedt Harksheide,3.3,1.06,3.28,32.7,Bike friendly,Low
+JNJMED_283,Norderstedt-Garstedt,Norderstedt Harksheide,3.99,1.63,3.28,33.9,Bike friendly,Low
+JNJMED_284,Norderstedt-Garstedt,Ochsenzoll,3.32,2.63,2.0,33.7,Bike friendly,Low
+JNJMED_285,Norderstedt-Garstedt,Ochsenzoll,3.01,1.56,2.0,31.5,Bike friendly,Low
+JNJMED_286,Norderstedt-Garstedt,Norderstedt Harksheide,4.97,3.34,3.28,37.3,Excellent,Very High
+JNJMED_287,Norderstedt-Garstedt,Norderstedt Mitte,2.24,0.34,1.93,27.1,Bike friendly,Low
+JNJMED_288,Norderstedt-Garstedt,Quickborn,4.25,2.69,6.89,42.2,Excellent,Very High
+JNJMED_289,Norderstedt-Garstedt,Norderstedt Harksheide,3.5,1.55,3.28,33.7,Bike friendly,Low
+JNJMED_290,Norderstedt-Garstedt,Langenhorn Nord,4.26,1.77,4.03,35.4,Excellent,Very High
+JNJMED_291,Norderstedt-Garstedt,Norderstedt Mitte,2.12,0.29,1.93,26.1,Bike friendly,Low
+JNJMED_292,Norderstedt-Garstedt,Norderstedt Harksheide,6.55,4.18,3.28,39.0,Excellent,Very High
+JNJMED_293,Norderstedt-Garstedt,Norderstedt Harksheide,2.58,1.1,3.28,32.8,Bike friendly,Low
+JNJMED_294,Norderstedt-Garstedt,Norderstedt Garstedt,0.31,1.25,0.94,6.2,Walk to work,Very Low
+JNJMED_295,Norderstedt-Harksheide,Norderstedt Harksheide,4.66,2.59,3.28,35.8,Excellent,Very High
+JNJMED_296,Norderstedt-Harksheide,Norderstedt Harksheide,3.08,1.02,3.28,32.6,Bike friendly,Low
+JNJMED_297,Norderstedt-Harksheide,Norderstedt Harksheide,4.57,1.29,3.28,33.2,Excellent,Very High
+JNJMED_298,Norderstedt-Harksheide,Norderstedt Harksheide,5.18,2.6,3.28,35.8,Excellent,Very High
+JNJMED_299,Norderstedt-Harksheide,Norderstedt Mitte,2.22,1.09,1.93,30.5,Bike friendly,Low
+JNJMED_300,Norderstedt-Harksheide,Norderstedt Harksheide,3.09,1.15,3.28,32.9,Bike friendly,Low
+JNJMED_301,Norderstedt-Harksheide,Norderstedt Harksheide,4.5,2.57,3.28,35.7,Excellent,Very High
+JNJMED_302,Norderstedt-Harksheide,Norderstedt Harksheide,6.5,3.31,3.28,37.2,Excellent,Very High
+JNJMED_303,Norderstedt-Harksheide,Norderstedt Harksheide,6.62,3.79,3.28,38.2,Excellent,Very High
+JNJMED_304,Norderstedt-Harksheide,Norderstedt Mitte,1.31,1.65,1.93,26.2,Walk to work,Very Low
+JNJMED_305,Norderstedt-Harksheide,Langenhorn Nord,4.85,3.08,4.03,38.1,Excellent,Very High
+JNJMED_306,Norderstedt-Harksheide,Norderstedt Harksheide,4.57,1.53,3.28,33.7,Excellent,Very High
+JNJMED_307,Norderstedt-Harksheide,Norderstedt Mitte,3.47,2.11,1.93,32.5,Bike friendly,Low
+JNJMED_308,Norderstedt-Harksheide,Henstedt-Ulzburg,8.5,3.68,11.19,51.6,Good,Very High
+JNJMED_309,Norderstedt-Harksheide,Norderstedt Harksheide,4.41,1.42,3.28,33.4,Excellent,Very High
+JNJMED_310,Norderstedt-Harksheide,Norderstedt Harksheide,4.46,1.2,3.28,33.0,Excellent,Very High
+JNJMED_311,Norderstedt-Harksheide,Norderstedt Richtweg,2.88,1.69,1.34,30.7,Bike friendly,Low
+JNJMED_312,Norderstedt-Harksheide,Norderstedt Harksheide,8.28,4.99,3.28,40.6,Excellent,Very High
+JNJMED_313,Kaltenkirchen,Kaltenkirchen,19.86,3.61,16.29,60.1,Time consuming,High
+JNJMED_314,Kaltenkirchen,Kaltenkirchen,14.06,2.26,16.29,57.4,Good,Very High
+JNJMED_315,Kaltenkirchen,Kaltenkirchen,16.32,2.26,16.29,57.4,Good,Very High
+JNJMED_316,Kaltenkirchen,Henstedt-Ulzburg,12.52,2.27,11.19,48.7,Good,Very High
+JNJMED_317,Kaltenkirchen,Kaltenkirchen,15.97,0.85,16.29,61.9,Time consuming,High
+JNJMED_318,Kaltenkirchen,Kaltenkirchen,14.67,3.92,16.29,60.7,Time consuming,High
+JNJMED_319,Kaltenkirchen,Kaltenkirchen,18.05,1.79,16.29,56.5,Good,Very High
+JNJMED_320,Kaltenkirchen,Kaltenkirchen,13.87,3.82,16.29,60.5,Time consuming,High
+JNJMED_321,Kaltenkirchen,Kaltenkirchen,15.55,3.49,16.29,59.9,Good,Very High
+JNJMED_322,Kaltenkirchen,Kaltenkirchen,16.18,2.94,16.29,58.8,Good,Very High
+JNJMED_323,Kaltenkirchen,Kaltenkirchen,15.74,0.75,16.29,59.9,Good,Very High
+JNJMED_324,Kaltenkirchen,Henstedt-Ulzburg,10.27,1.59,11.19,47.4,Good,Very High
+JNJMED_325,Henstedt-Ulzburg,Henstedt-Ulzburg,10.82,1.45,11.19,47.1,Good,Very High
+JNJMED_326,Henstedt-Ulzburg,Kaltenkirchen,15.52,3.54,16.29,60.0,Good,Very High
+JNJMED_327,Henstedt-Ulzburg,Henstedt-Ulzburg,10.95,2.24,11.19,48.7,Good,Very High
+JNJMED_328,Henstedt-Ulzburg,Kaltenkirchen,17.0,1.54,16.29,56.0,Good,Very High
+JNJMED_329,Henstedt-Ulzburg,Henstedt-Ulzburg,11.31,0.13,11.19,38.8,Excellent,Very High
+JNJMED_330,Henstedt-Ulzburg,Henstedt-Ulzburg,11.73,0.6,11.19,48.2,Good,Very High
+JNJMED_331,Henstedt-Ulzburg,Henstedt-Ulzburg,10.08,1.6,11.19,47.4,Good,Very High
+JNJMED_332,Henstedt-Ulzburg,Henstedt-Ulzburg,11.28,1.07,11.19,46.3,Good,Very High
+JNJMED_333,Henstedt-Ulzburg,Henstedt-Ulzburg,9.69,1.51,11.19,47.2,Good,Very High
+JNJMED_334,Henstedt-Ulzburg,Henstedt-Ulzburg,11.05,3.02,11.19,50.2,Good,Very High
+JNJMED_335,Henstedt-Ulzburg,Norderstedt Harksheide,5.71,2.63,3.28,35.9,Excellent,Very High
+JNJMED_336,Henstedt-Ulzburg,Kaltenkirchen,14.7,3.61,16.29,60.1,Time consuming,High
+JNJMED_337,Ammersbek,Ammersbek,12.16,0.84,12.52,55.3,Good,Very High
+JNJMED_338,Ammersbek,Ammersbek,11.37,2.03,12.52,50.6,Good,Very High
+JNJMED_339,Ammersbek,Ahrensburg,16.33,1.44,17.25,57.5,Good,Very High
+JNJMED_340,Ammersbek,Ammersbek,15.87,4.58,12.52,55.7,Good,Very High
+JNJMED_341,Ammersbek,Ammersbek,11.17,3.65,12.52,53.8,Good,Very High
+JNJMED_342,Ammersbek,Ammersbek,13.83,1.34,12.52,49.2,Good,Very High
+JNJMED_343,Ammersbek,Ammersbek,14.28,2.13,12.52,50.8,Good,Very High
+JNJMED_344,Ammersbek,Ammersbek,12.18,1.05,12.52,48.6,Good,Very High
+JNJMED_345,Ammersbek,Ammersbek,14.16,3.31,12.52,53.1,Good,Very High
+JNJMED_346,Ammersbek,Ammersbek,15.18,2.72,12.52,51.9,Good,Very High
+JNJMED_347,Ammersbek,Ammersbek,14.07,1.8,12.52,50.1,Good,Very High
+JNJMED_348,Ammersbek,Ammersbek,12.65,2.84,12.52,52.2,Good,Very High
+JNJMED_349,Hamburg-Nord,Lokstedt,9.52,0.61,10.03,46.4,Good,Very High
+JNJMED_350,Hamburg-Nord,Airport (Flughafen),8.05,2.03,6.69,40.6,Excellent,Very High
+JNJMED_351,Hamburg-Nord,Winterhude / Hudtwalckerstraße,11.63,0.86,10.9,52.9,Good,Very High
+JNJMED_352,Hamburg-Nord,Eimsbüttel / Osterstraße,11.83,1.05,12.86,49.1,Good,Very High
+JNJMED_353,Hamburg-Nord,Dammtor,13.71,1.67,14.47,53.1,Good,Very High
+JNJMED_354,Hamburg-Nord,Hasselbrook,13.64,0.86,14.5,59.1,Good,Very High
+JNJMED_355,Hamburg-Nord,Berliner Tor,15.31,0.9,15.8,62.1,Time consuming,High
+JNJMED_356,Hamburg-Nord,Winterhude / Hudtwalckerstraße,9.65,1.95,10.9,47.6,Good,Very High
+JNJMED_357,Hamburg-Nord,Winterhude / Hudtwalckerstraße,11.42,0.93,10.9,54.3,Good,Very High
+JNJMED_358,Hamburg-Nord,Winterhude / Hudtwalckerstraße,10.61,0.87,10.9,53.1,Good,Very High
+JNJMED_359,Hamburg-Nord,Winterhude / Hudtwalckerstraße,9.9,1.43,10.9,46.6,Good,Very High
+JNJMED_360,Hamburg-Nord,Winterhude / Hudtwalckerstraße,10.93,1.59,10.9,46.9,Good,Very High
+JNJMED_361,Hamburg-Nord,Lokstedt,9.75,1.26,10.03,44.7,Excellent,Very High
+JNJMED_362,Hamburg-Nord,Dammtor,13.3,2.16,14.47,54.1,Good,Very High
+JNJMED_363,Hamburg-Nord,Lokstedt,9.73,1.9,10.03,46.0,Good,Very High
+JNJMED_364,Hamburg-Nord,Winterhude / Hudtwalckerstraße,10.17,0.98,10.9,55.3,Good,Very High
+JNJMED_365,Hamburg-Nord,Lokstedt,11.32,1.54,10.03,45.3,Good,Very High
+JNJMED_366,Hamburg-Nord,Lokstedt,9.72,0.41,10.03,42.4,Excellent,Very High
+JNJMED_367,Winterhude,Lokstedt,10.29,0.26,10.03,39.4,Excellent,Very High
+JNJMED_368,Winterhude,Ohlsdorf,9.27,1.11,8.49,41.8,Excellent,Very High
+JNJMED_369,Winterhude,Barmbek,11.22,0.95,12.18,56.9,Good,Very High
+JNJMED_370,Winterhude,Klein Borstel,8.38,0.51,8.65,42.0,Excellent,Very High
+JNJMED_371,Winterhude,Jungfernstieg,15.21,1.38,15.26,54.0,Good,Very High
+JNJMED_372,Winterhude,Winterhude / Hudtwalckerstraße,12.65,1.85,10.9,47.4,Good,Very High
+JNJMED_373,Winterhude,Winterhude / Hudtwalckerstraße,9.96,1.92,10.9,47.5,Good,Very High
+JNJMED_374,Winterhude,Winterhude / Hudtwalckerstraße,10.69,1.84,10.9,47.4,Good,Very High
+JNJMED_375,Winterhude,Eimsbüttel / Osterstraße,12.49,1.13,12.86,49.3,Good,Very High
+JNJMED_376,Winterhude,Eimsbüttel / Osterstraße,13.17,1.29,12.86,49.6,Good,Very High
+JNJMED_377,Winterhude,Hasselbrook,13.87,0.68,14.5,55.5,Good,Very High
+JNJMED_378,Winterhude,Wandsbek Markt,15.03,1.42,14.56,52.8,Good,Very High
+JNJMED_379,Winterhude,Winterhude / Hudtwalckerstraße,10.26,0.66,10.9,48.9,Good,Very High
+JNJMED_380,Winterhude,Hasselbrook,13.43,1.38,14.5,52.7,Good,Very High
+JNJMED_381,Winterhude,Winterhude / Hudtwalckerstraße,12.57,1.72,10.9,47.1,Good,Very High
+JNJMED_382,Winterhude,Langenhorn Markt,5.68,0.97,5.26,45.4,Good,Very High
+JNJMED_383,Winterhude,Airport (Flughafen),8.56,2.39,6.69,41.3,Excellent,Very High
+JNJMED_384,Winterhude,Wandsbek-Gartenstadt,12.44,0.85,12.61,55.6,Good,Very High
+JNJMED_385,Lokstedt,Winterhude / Hudtwalckerstraße,11.34,1.2,10.9,46.1,Good,Very High
+JNJMED_386,Lokstedt,Niendorf Markt,8.99,1.57,8.28,42.3,Excellent,Very High
+JNJMED_387,Lokstedt,Niendorf Markt,8.48,1.55,8.28,42.3,Excellent,Very High
+JNJMED_388,Lokstedt,Stellingen,10.1,3.09,11.94,51.7,Good,Very High
+JNJMED_389,Lokstedt,Stellingen,11.84,1.24,11.94,48.0,Good,Very High
+JNJMED_390,Lokstedt,Lokstedt,10.1,0.33,10.03,40.8,Excellent,Very High
+JNJMED_391,Lokstedt,Stellingen,10.72,1.99,11.94,49.5,Good,Very High
+JNJMED_392,Lokstedt,Lokstedt,9.1,0.95,10.03,53.2,Good,Very High
+JNJMED_393,Lokstedt,Lokstedt,8.63,1.78,10.03,45.8,Good,Very High
+JNJMED_394,Lokstedt,Niendorf Markt,8.14,0.48,8.28,40.8,Excellent,Very High
+JNJMED_395,Lokstedt,Stellingen,11.51,2.0,11.94,49.5,Good,Very High
+JNJMED_396,Lokstedt,Niendorf Markt,9.12,0.86,8.28,48.4,Good,Very High
+JNJMED_397,Lokstedt,Stellingen,10.48,2.13,11.94,49.8,Good,Very High
+JNJMED_398,Lokstedt,Eimsbüttel / Osterstraße,12.28,1.74,12.86,50.5,Good,Very High
+JNJMED_399,Lokstedt,Lokstedt,10.01,0.43,10.03,42.8,Excellent,Very High
+JNJMED_400,Lokstedt,Lokstedt,10.07,0.88,10.03,51.8,Good,Very High
+JNJMED_401,Lokstedt,Niendorf Markt,8.48,1.48,8.28,42.2,Excellent,Very High
+JNJMED_402,Lokstedt,Stellingen,10.2,1.76,11.94,49.0,Good,Very High
+JNJMED_403,Stellingen,Stellingen,13.05,1.93,11.94,49.4,Good,Very High
+JNJMED_404,Stellingen,Schenefeld,11.94,2.36,13.29,52.5,Good,Very High
+JNJMED_405,Stellingen,Schenefeld,10.59,2.71,13.29,53.2,Good,Very High
+JNJMED_406,Stellingen,Stellingen,12.69,2.16,11.94,49.8,Good,Very High
+JNJMED_407,Stellingen,Niendorf Markt,8.92,3.08,8.28,45.4,Good,Very High
+JNJMED_408,Stellingen,Schenefeld,11.76,1.78,13.29,51.4,Good,Very High
+JNJMED_409,Stellingen,Stellingen,10.67,1.27,11.94,48.0,Good,Very High
+JNJMED_410,Stellingen,Stellingen,10.95,1.13,11.94,47.8,Good,Very High
+JNJMED_411,Stellingen,Eimsbüttel / Osterstraße,12.07,1.08,12.86,49.2,Good,Very High
+JNJMED_412,Stellingen,Rellingen,8.2,2.71,9.46,46.6,Good,Very High
+JNJMED_413,Stellingen,Eimsbüttel / Osterstraße,11.9,1.18,12.86,49.4,Good,Very High
+JNJMED_414,Stellingen,Halstenbek,9.56,2.99,10.96,49.8,Good,Very High
+JNJMED_415,Niendorf,Niendorf Markt,9.5,1.27,8.28,41.7,Excellent,Very High
+JNJMED_416,Niendorf,Stellingen,11.84,0.21,11.94,41.7,Excellent,Very High
+JNJMED_417,Niendorf,Stellingen,11.02,0.94,11.94,56.3,Good,Very High
+JNJMED_418,Niendorf,Niendorf Markt,8.43,0.43,8.28,39.8,Excellent,Very High
+JNJMED_419,Niendorf,Niendorf Markt,6.21,3.91,8.28,47.0,Good,Very High
+JNJMED_420,Niendorf,Niendorf Markt,6.49,2.11,8.28,43.4,Excellent,Very High
+JNJMED_421,Niendorf,Niendorf Markt,8.34,1.27,8.28,41.7,Excellent,Very High
+JNJMED_422,Niendorf,Lokstedt,10.78,0.79,10.03,50.0,Good,Very High
+JNJMED_423,Niendorf,Niendorf Markt,7.9,0.91,8.28,49.4,Good,Very High
+JNJMED_424,Niendorf,Ohlsdorf,8.08,0.56,8.49,42.8,Excellent,Very High
+JNJMED_425,Niendorf,Lokstedt,10.1,1.68,10.03,45.6,Good,Very High
+JNJMED_426,Niendorf,Lokstedt,10.09,1.73,10.03,45.7,Good,Very High
+JNJMED_427,Niendorf,Lokstedt,9.63,1.79,10.03,45.8,Good,Very High
+JNJMED_428,Niendorf,Niendorf Markt,5.95,3.26,8.28,45.7,Good,Very High
+JNJMED_429,Niendorf,Lokstedt,10.11,0.36,10.03,41.4,Excellent,Very High
+JNJMED_430,Niendorf,Lokstedt,9.46,0.83,10.03,50.8,Good,Very High
+JNJMED_431,Niendorf,Niendorf Markt,9.24,3.12,8.28,45.4,Good,Very High
+JNJMED_432,Niendorf,Langenhorn Markt,5.0,0.87,5.26,43.4,Excellent,Very High
+JNJMED_433,Langenhorn,Langenhorn Nord,3.37,1.92,4.03,35.7,Bike friendly,Low
+JNJMED_434,Langenhorn,Ochsenzoll,2.36,0.58,2.0,32.0,Bike friendly,Low
+JNJMED_435,Langenhorn,Langenhorn Nord,5.29,3.92,4.03,39.7,Excellent,Very High
+JNJMED_436,Langenhorn,Ochsenzoll,2.38,1.9,2.0,32.2,Bike friendly,Low
+JNJMED_437,Langenhorn,Airport (Flughafen),5.04,2.38,6.69,41.3,Excellent,Very High
+JNJMED_438,Langenhorn,Langenhorn Nord,5.25,2.68,4.03,37.3,Excellent,Very High
+JNJMED_439,Langenhorn,Langenhorn Nord,3.57,0.71,4.03,38.1,Bike friendly,Low
+JNJMED_440,Langenhorn,Langenhorn Nord,4.15,1.71,4.03,35.3,Excellent,Very High
+JNJMED_441,Langenhorn,Norderstedt Harksheide,3.66,1.81,3.28,34.2,Bike friendly,Low
+JNJMED_442,Langenhorn,Langenhorn Nord,4.54,0.93,4.03,42.5,Excellent,Very High
+JNJMED_443,Langenhorn,Ochsenzoll,4.96,3.71,2.0,35.8,Excellent,Very High
+JNJMED_444,Langenhorn,Garstedt,0.88,0.09,0.94,17.6,Walk to work,Very Low
+JNJMED_445,Langenhorn,Ochsenzoll,3.54,2.25,2.0,32.9,Bike friendly,Low
+JNJMED_446,Langenhorn,Ochsenzoll,2.29,1.6,2.0,31.6,Bike friendly,Low
+JNJMED_447,Langenhorn,Norderstedt Richtweg,3.62,2.65,1.34,32.6,Bike friendly,Low
+JNJMED_448,Langenhorn,Norderstedt Richtweg,2.8,1.58,1.34,30.5,Bike friendly,Low
+JNJMED_449,Langenhorn,Ochsenzoll,2.82,0.91,2.0,38.6,Bike friendly,Low
+JNJMED_450,Langenhorn,Norderstedt Richtweg,0.79,1.35,1.34,15.8,Walk to work,Very Low
+JNJMED_451,Poppenbüttel,Poppenbüttel,7.5,0.65,8.14,44.0,Excellent,Very High
+JNJMED_452,Poppenbüttel,Volksdorf,10.81,2.24,12.86,51.5,Good,Very High
+JNJMED_453,Poppenbüttel,Poppenbüttel,8.46,0.38,8.14,38.6,Excellent,Very High
+JNJMED_454,Poppenbüttel,Berne,11.56,1.63,12.73,50.1,Good,Very High
+JNJMED_455,Poppenbüttel,Volksdorf,12.03,1.36,12.86,49.7,Good,Very High
+JNJMED_456,Poppenbüttel,Poppenbüttel,9.32,1.3,8.14,41.6,Excellent,Very High
+JNJMED_457,Poppenbüttel,Volksdorf,11.18,1.69,12.86,50.4,Good,Very High
+JNJMED_458,Poppenbüttel,Poppenbüttel,9.17,1.04,8.14,41.1,Excellent,Very High
+JNJMED_459,Poppenbüttel,Poppenbüttel,8.32,1.16,8.14,41.3,Excellent,Very High
+JNJMED_460,Poppenbüttel,Poppenbüttel,9.45,1.55,8.14,42.1,Excellent,Very High
+JNJMED_461,Poppenbüttel,Poppenbüttel,5.7,2.65,8.14,44.3,Excellent,Very High
+JNJMED_462,Poppenbüttel,Poppenbüttel,7.26,1.11,8.14,41.2,Excellent,Very High
+JNJMED_463,Bergedorf,Bergedorf,22.73,4.32,26.91,79.7,Time consuming,High
+JNJMED_464,Bergedorf,Bergedorf,28.06,1.15,26.91,73.4,Time consuming,High
+JNJMED_465,Bergedorf,Bergedorf,23.7,3.75,26.91,78.6,Time consuming,High
+JNJMED_466,Bergedorf,Bergedorf,29.81,3.72,26.91,78.5,Time consuming,High
+JNJMED_467,Bergedorf,Bergedorf,27.4,5.42,26.91,81.9,Too far to commute regularly,Low
+JNJMED_468,Bergedorf,Bergedorf,25.24,1.69,26.91,74.5,Time consuming,High
+JNJMED_469,Bergedorf,Bergedorf,29.28,2.37,26.91,75.8,Time consuming,High
+JNJMED_470,Bergedorf,Bergedorf,25.54,1.51,26.91,74.1,Time consuming,High
+JNJMED_471,Bergedorf,Bergedorf,29.94,3.04,26.91,77.2,Time consuming,High
+JNJMED_472,Bergedorf,Bergedorf,25.3,1.74,26.91,74.6,Time consuming,High
+JNJMED_473,Bergedorf,Billstedt,22.01,4.52,18.57,65.8,Time consuming,High
+JNJMED_474,Bergedorf,Bergedorf,28.83,3.5,26.91,78.1,Time consuming,High
+JNJMED_475,Tornesch,Tornesch,17.02,0.84,17.69,64.1,Time consuming,High
+JNJMED_476,Tornesch,Tornesch,16.79,1.31,17.69,57.9,Good,Very High
+JNJMED_477,Tornesch,Pinneberg,14.73,3.39,12.76,53.7,Good,Very High
+JNJMED_478,Tornesch,Tornesch,15.29,2.45,17.69,60.2,Time consuming,High
+JNJMED_479,Tornesch,Tornesch,16.67,1.1,17.69,57.5,Good,Very High
+JNJMED_480,Tornesch,Tornesch,16.75,1.32,17.69,57.9,Good,Very High
+JNJMED_481,Tornesch,Tornesch,15.05,2.95,17.69,61.2,Time consuming,High
+JNJMED_482,Tornesch,Tornesch,16.14,1.56,17.69,58.4,Good,Very High
+JNJMED_483,Tornesch,Tornesch,14.65,3.08,17.69,61.5,Time consuming,High
+JNJMED_484,Tornesch,Pinneberg,13.92,3.98,12.76,54.9,Good,Very High
+JNJMED_485,Tornesch,Uetersen,20.34,1.59,20.99,64.2,Time consuming,High
+JNJMED_486,Tornesch,Tornesch,18.87,1.21,17.69,57.7,Good,Very High
+JNJMED_487,Uetersen,Uetersen,21.97,1.8,20.99,64.6,Time consuming,High
+JNJMED_488,Uetersen,Uetersen,24.47,3.67,20.99,68.3,Time consuming,High
+JNJMED_489,Uetersen,Uetersen,25.53,4.68,20.99,70.4,Time consuming,High
+JNJMED_490,Uetersen,Uetersen,19.65,4.3,20.99,69.6,Time consuming,High
+JNJMED_491,Uetersen,Uetersen,19.83,1.82,20.99,64.6,Time consuming,High
+JNJMED_492,Uetersen,Uetersen,20.97,2.52,20.99,66.0,Time consuming,High
+JNJMED_493,Uetersen,Uetersen,22.96,2.0,20.99,65.0,Time consuming,High
+JNJMED_494,Uetersen,Tornesch,19.07,1.62,17.69,58.5,Good,Very High
+JNJMED_495,Uetersen,Uetersen,20.64,0.93,20.99,71.6,Time consuming,High
+JNJMED_496,Uetersen,Uetersen,24.7,3.72,20.99,68.4,Time consuming,High
+JNJMED_497,Uetersen,Uetersen,22.05,1.37,20.99,63.7,Time consuming,High
+JNJMED_498,Uetersen,Uetersen,21.44,2.6,20.99,66.2,Time consuming,High
