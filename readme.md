@@ -51,19 +51,19 @@ For every employee:
 
 The top 5 places with strong Public transport connectivity :
 
-- Halstenbek
+- Fuhlsbüttel
+- Bramfeld
+- Alsterdorf
 - Hamburg-Nord
-- Niendorf
-- Winterhude
-- Lokstedt
+- Wellingsbüttel
 
 | Location | Avg. Commute Time (min) | Unique Stations | Main Station | Connectivity Category |
 |----------|-------------------------:|----------------:|--------------|-----------------------|
-| Halstenbek | 49.09 | 4 | Halstenbek | Strong public transport connectivity |
-| Hamburg-Nord | 49.98 | 7 | Winterhude / Hudtwalckerstraße | Strong public transport connectivity |
-| Niendorf | 45.42 | 5 | Niendorf Markt | Strong public transport connectivity |
-| Winterhude | 48.59 | 12 | Winterhude / Hudtwalckerstraße | Strong public transport connectivity |
-| Lokstedt | 46.92 | 5 | Stellingen | Strong public transport connectivity |
+| Fuhlsbüttel | 38.12 | 4 | Langenhorn Markt | Strong public transport connectivity |
+| Bramfeld | 44.52 | 5 | Barmbek | Strong public transport connectivity |
+| Alsterdorf | 44.26 | 7 | U Alsterdorf | Strong public transport connectivity |
+| Hamburg-Nord | 49.38 | 12 | U Lattenkamp | Strong public transport connectivity |
+| Wellingsbüttel | 42.46 | 5 | Airport (Flughafen) | Strong public transport connectivity |
 
 ## Why Are These Areas Well Connected?
 
@@ -74,21 +74,21 @@ The top 5 places with strong Public transport connectivity :
 
 The top 5 places with weak Public transport connectivity :
 
-- Pinneberg
-- Elmshorn
-- Bergedorf
-- Wedel
-- Hamburg-Harburg
+- Lüneburg
+- Itzehoe
+- Seevetal
+- Bad Oldesloe
+- Buxtehude
 
 
 
 | Location | Avg. Commute Time (min) | Unique Stations | Main Station | Connectivity Category |
 |----------|-------------------------:|----------------:|--------------|-----------------------|
 | Lüneburg | 128.11 | 1 | Lüneburg | Less attractive public transport |
-| Elmshorn | 69.88 | 2 | Elmshorn | Less attractive public transport |
-| Bergedorf | 76.02 | 2 | Bergedorf | Less attractive public transport |
-| Wedel | 68.62 | 2 | Wedel | Less attractive public transport |
-| Hamburg-Harburg | 75.03 | 1 | Harburg | Less attractive public transport |
+| Itzehoe | 106.74 | 1 | Elmshorn | Less attractive public transport |
+| Seevetal | 88.12 | 1 | Maschen | Less attractive public transport |
+| Bad Oldesloe | 81.32 | 1 | Bf. Bad Oldesloe (ZOB) | Less attractive public transport |
+| Buxtehude | 81.22 | 1 | Buxtehude ZOB | Less attractive public transport |
 
 
 ## Why Are These Areas poorly connected?
@@ -107,20 +107,20 @@ The rule-based assessment shows we can identify various sectors.
 
 Employees with commute time below **45 minutes** are classified as **Very High**, Shows the adoption for deustchland ticket rate is very high and helpful
 
-| Commute Time | Employees | Percentage |
-|--------------|----------:|-----------:|
-| Within 30 minutes | 18 | 3.61% |
-| Within 45 minutes | 136 | 27.31% |
-| Within 60 minutes | 407 | 81.73% |
-| Over 60 minutes | 91 | 18.27% |
+| Commute Time | Employees | Percentage (%) |
+|--------------|----------:|---------------:|
+| Within 30 minutes | 20 | 2.55 |
+| Within 45 minutes | 219 | 27.97 |
+| Within 60 minutes | 596 | 76.12 |
+| Over 60 minutes | 187 | 23.88 |
 
 
-| Deutschlandticket Metric | Employees | Percentage |
-|--------------------------|----------:|-----------:|
-| Very High | 357 | 71.69% |
-| High | 78 | 15.66% |
-| Low | 52 | 10.44% |
-| Very Low | 11 | 2.21% |
+| Deutschlandticket Metric | Employees | Percentage (%) |
+|---------------------------|----------:|---------------:|
+| Very High | 540 | 68.97 |
+| High | 149 | 19.03 |
+| Low | 83 | 10.60 |
+| Very Low | 11 | 1.40 |
 
 
 ### Distance to the Office
