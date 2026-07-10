@@ -1,3 +1,49 @@
+# Project Structure
+
+```
+Deutschlandticket_Assessment/
+│
+├── data/
+│   ├── Bronze/
+│   │   ├── Employees_table.csv
+│   │   ├── Possible_generated_stations.csv
+|    |    ├── Possible_generated_stations_new.csv
+│   │   └── stops.txt
+│   │
+│   ├── Silver/
+│   │   └── FE_cleaned_table.csv
+│   │
+│   └── Gold/
+│       ├── Gold_Employees.csv
+│       └── Gold_Area_Summary.csv
+│
+├── notebooks/
+│   ├── 01_Data_Generation.ipynb
+│   ├── 02_Processed.ipynb
+│   ├── 03_Analysis.ipynb
+│   └── 04_Visualization.ipynb
+│
+├── requirements.txt
+└── README.md
+```
+
+---
+
+# Synthetic Employee Generation
+
+
+Since real employee addresses cannot be used, a synthetic employee dataset was created to simulate employees commuting to the Johnson & Johnson Medical GmbH office in Norderstedt.
+
+Approximately **800 synthetic employees** were generated across **50 residential locations** covering Hamburg and surrounding municipalities such as Norderstedt, Pinneberg, Quickborn, Wedel, Elmshorn, Ahrensburg, Bergedorf and Lüneburg.
+
+Each residential location were assigned to predefined share The shares sum to **1.0**, ensuring all employees were proportionally distributed.
+
+For every employee:
+
+- A residential area was selected with predefined population share.
+- Random latitude and longitude noise were generated around the area coordinates.
+- A fixed random seed (`random.seed(42)` and `numpy.random.seed(42)`) was used to multiply.
+
 # Business Analysis
 
 
